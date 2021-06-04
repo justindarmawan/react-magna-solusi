@@ -2,9 +2,33 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Created by: Justin Darmawan, Fullstack Dev @ Magna Solusi Indonesia
+
+## What npm library that used in this project
+
+### `npm install react-router-dom`
+
+for routing to another pages
+
+### `npm install react-icons`
+
+the icon that i used in this project
+
+### `npm install react-scroll`
+
+for scrolling between the navigation
+
+### `npm install styled-components`
+
+for designing the website
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Please install all npm library first before the use!!
 
 ### `npm start`
 
